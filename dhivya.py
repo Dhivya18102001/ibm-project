@@ -7,7 +7,6 @@ Marketplace
 Explore
  
 @xark-10 
-susanli2016
 /
 Machine-Learning-with-Python
 275
@@ -23,8 +22,6 @@ Wiki
 Security
 Insights
 Machine-Learning-with-Python/A Simple Classification.ipynb
-@susanli2016
-susanli2016 Add files
 Latest commit 8b43a15 on Aug 5, 2017
  History
  1 contributor
